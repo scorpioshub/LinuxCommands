@@ -288,3 +288,10 @@ run `pip install thefuck` in terminal.
 
 #### Running
 * grep 'nerdy' filename
+
+###Let there be fire
+To get it installed, here’s what you have to type:
+sudo apt install libaa-bin
+Once done start a fire in your terminal by entering:
+aafire
+Press Ctrl+C to stop it.
